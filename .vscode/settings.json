@@ -1,0 +1,9 @@
+{
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "terminal.integrated.shellArgs.windows": ["--login","-i"],
+    "debug.javascript.defaultRuntimeExecutable": {
+
+        "pwa-node": "node"
+    },
+    "terminal.integrated.cwd": "$PATH;C:\\\\Ruby31-x64\\\\bins"
+}

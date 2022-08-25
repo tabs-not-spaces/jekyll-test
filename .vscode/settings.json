@@ -5,5 +5,5 @@
 
         "pwa-node": "node"
     },
-    "terminal.integrated.cwd": "$PATH;C:\\\\Ruby31-x64\\\\bins"
+    "terminal.integrated.cwd": "$PATH;C:\\\\Ruby31-x64\\\\bin"
 }
